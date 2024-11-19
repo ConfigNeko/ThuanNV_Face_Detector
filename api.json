@@ -1,5 +1,5 @@
 {
-  "best_football": [
+  "celebrities": [
     {
       "id": 1,
       "name": "Selena Gomez",
@@ -161,7 +161,7 @@
       "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/20_Chiara_Ferragni.jpg"
     }
   ],
-   "footballers": [
+   "best_footballers": [
     {
       "id": 1,
       "name": "Lionel Messi",
