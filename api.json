@@ -484,5 +484,701 @@
       "career": "Actor - Producer",
       "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/20_Jennifer-Morrison.jpg"
     }
+  ],
+  "nba_players": [
+    {
+      "id": 1,
+      "name": "Michael Jordan",
+      "date_of_birth": "February 17, 1963",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/1_Michael-Jordan.jpg"
+    },
+    {
+      "id": 2,
+      "name": "LeBron James",
+      "date_of_birth": "December 30, 1984",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/2_LeBron-James.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kareem Abdul-Jabbar",
+      "date_of_birth": "April 16, 1947",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/3_Kareem-Abdul-Jabbar.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bill Russell",
+      "date_of_birth": "February 12, 1934",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/4_Bill-Russell.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Magic Johnson",
+      "date_of_birth": "August 14, 1959",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/5_Magic-Johnson.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Wilt Chamberlain",
+      "date_of_birth": "August 21, 1936",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/6_Wilt-Chamberlain.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Larry Bird",
+      "date_of_birth": "December 7, 1956",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/7_Larry-Bird.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Shaquille O’Neal",
+      "date_of_birth": "March 6, 1972",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/8_Shaquille-O-Neal.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tim Duncan",
+      "date_of_birth": "April 25, 1976",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/9_Tim-Duncan.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Kobe Bryant",
+      "date_of_birth": "August 23, 1978",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/10_Kobe-Bryant.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Hakeem Olajuwon",
+      "date_of_birth": "January 21, 1963",
+      "country": "Nigeria",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/11_Hakeem-Olajuwon.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Oscar Robertson",
+      "date_of_birth": "November 24, 1938",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/12_Oscar-Robertson.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Kevin Durant",
+      "date_of_birth": "September 29, 1988",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/13_Kevin-Durant.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Jerry West",
+      "date_of_birth": "May 28, 1938",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/14_Jerry-West.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Stephen Curry",
+      "date_of_birth": "March 14, 1988",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/15_Stephen-Curry.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Karl Malone",
+      "date_of_birth": "July 24, 1963",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/16_Karl-Malone.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Kevin Garnett",
+      "date_of_birth": "May 19, 1976",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/17_Kevin-Garnett.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Moses Malone",
+      "date_of_birth": "March 23, 1955",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/18_Moses-Malone.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Julius Erving",
+      "date_of_birth": "February 22, 1950",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/19_Julius-Erving.jpg"
+    },
+    {
+      "id": 20,
+      "name": "David Robinson",
+      "date_of_birth": "August 6, 1965",
+      "country": "USA",
+      "career": "Basketball player",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/NBA_Players/20_David-Robinson.jpg"
+    }
+  ],
+  "richest_people": [
+    {
+      "id": 1,
+      "name": "Berrnard Arnault & family",
+      "date_of_birth": "5 March 1949",
+      "country": "France",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/1_Berrnard-Arnault.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Elon Musk",
+      "date_of_birth": "June 28, 1971",
+      "country": "South Africa",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/2_Elon-Musk.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jeff Bezos",
+      "date_of_birth": "January 12, 1964",
+      "country": "USA",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/3_Jeff-Bezos.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mark Zuckerberg",
+      "date_of_birth": "May 14, 1984",
+      "country": "USA",
+      "career": "Businessman - DEV",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/4_Mark-Zuckerberg.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Larry Ellison",
+      "date_of_birth": "August 17, 1944",
+      "country": "USA",
+      "career": "Businessman - Investor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/5_Larry-Ellison.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Warren Buffett",
+      "date_of_birth": "August 30, 1930",
+      "country": "USA",
+      "career": "Businessman - Investor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/6_Warren-Buffett.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bill Gates",
+      "date_of_birth": "October 28, 1955",
+      "country": "USA",
+      "career": "Businessman - Investor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/7_Bill-Gates.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Steve Ballmer",
+      "date_of_birth": "March 24, 1956",
+      "country": "USA",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/8_Steve-Ballmer.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mukesh Ambani",
+      "date_of_birth": "19 April 1957",
+      "country": "India",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/9_Mukesh-Ambani.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Larry Page",
+      "date_of_birth": "March 26, 1973",
+      "country": "USA",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/10_Larry-Page.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Serrgey Brin",
+      "date_of_birth": "August 21, 1973",
+      "country": "USA",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/11_Sergey-Brin.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Michael Bloomberg",
+      "date_of_birth": "February 14, 1942",
+      "country": "USA",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/12_Michael-Bloomberg.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Amancio Ortega",
+      "date_of_birth": "28 March 1936",
+      "country": "Spain",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/13_Amancio-Ortega.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Carlos Slim Helu & family",
+      "date_of_birth": "28 January 1940",
+      "country": "Mexico",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/14_Carlos-Slim-Helu.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Francoise Bettencourt Meyers & family",
+      "date_of_birth": "10 July 1953",
+      "country": "France",
+      "career": "Businesswoman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/15_Francoise-Bettencourt-Meyers.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Michael Dell",
+      "date_of_birth": "February 23, 1965",
+      "country": "USA",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/16_Michael-Dell.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Gautam Adani",
+      "date_of_birth": "24 June 1962",
+      "country": "India",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/17_Gautam-Adani.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Jim Walton & family",
+      "date_of_birth": "June 7, 1948",
+      "country": "USA",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/18_Jim-Walton.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Rob Walton & family",
+      "date_of_birth": "October 27, 1944",
+      "country": "USA",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/19_Rob-Walton.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Jensen Huang",
+      "date_of_birth": "February 17, 1963",
+      "country": "Taiwan",
+      "career": "Businessman",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Richest_people/20_Jensen-Huang.jpg"
+    }
+  ],
+  "bodybuilders": [
+    {
+      "id": 1,
+      "name": "Dwayne Johnson",
+      "date_of_birth": "May 2, 1972",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/1_Dwayne Johnson.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chris Bumstead",
+      "date_of_birth": "February 2, 1995",
+      "country": "Canada",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/2_Chris-Bumstead.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dexter Jackson",
+      "date_of_birth": "November 25, 1969",
+      "country": "Florida",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/3_Dexter-Jackson.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kai Greene",
+      "date_of_birth": "July 12, 1975",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/4_Kai-Greene.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jeff Seid",
+      "date_of_birth": "June 12, 1994",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/5_Jeff-Seid.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Phil Heath",
+      "date_of_birth": "December 18, 1979",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/6_Phil-Heath.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jay Cutler",
+      "date_of_birth": "April 29, 1983",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/7_Jay-Cutler.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ronnie Coleman",
+      "date_of_birth": "May 13, 1964",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/8_Ronnie-Coleman.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Unknown",
+      "date_of_birth": "",
+      "country": "",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/9_Steve-Cook.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Steve Cook",
+      "date_of_birth": "19 April 1991",
+      "country": "England",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/10_Lee-Haney.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Unknown",
+      "date_of_birth": "",
+      "country": "",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/11_Mike-O'Hearn.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Lee Haney",
+      "date_of_birth": "November 11, 1959",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/12_James-Lewis.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Unknown",
+      "date_of_birth": "",
+      "country": "",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/13_Kevin-Levrone.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Mike O'Hearn",
+      "date_of_birth": "January 26, 1969",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/14_Chris-Cormier.jpg"
+    },
+    {
+      "id": 15,
+      "name": "James Lewis",
+      "date_of_birth": "November 15, 1983",
+      "country": "England",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/15_Brandon-Curry.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Kevin Levrone",
+      "date_of_birth": "July 16, 1964",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/16_Lee-Priest.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Chris Cormier",
+      "date_of_birth": "August 19, 1967",
+      "country": "USA",
+      "career": "Bodybuilder",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Bodybuilders/17_Shawn-Ray.jpg"
+    }
+  ], 
+  "asia_artists": [
+    {
+      "id": 1,
+      "name": "Lisa",
+      "date_of_birth": "March 27, 1997",
+      "country": "Thailand",
+      "career": "Rapper",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/1_Lisa.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jennie",
+      "date_of_birth": "January 16, 1996",
+      "country": "Korea",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/2_Jennie.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rosé",
+      "date_of_birth": "February 11, 1997",
+      "country": "New Zealand",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/3_Rosé.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jisoo",
+      "date_of_birth": "January 3, 1995",
+      "country": "Korea",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/4_Jisoo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Davika Hoorne",
+      "date_of_birth": "May 16, 1992",
+      "country": "Thailand",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/5_Davika-Hoorne.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chi Pu",
+      "date_of_birth": "June 14, 1993",
+      "country": "Vietnam",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/6_Chi-Pu.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jungkook",
+      "date_of_birth": "September 1, 1997",
+      "country": "Korea",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/7_Jungkook.jpg"
+    },
+    {
+      "id": 8,
+      "name": "V",
+      "date_of_birth": "December 30, 1995",
+      "country": "Korea",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/8_V.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mario Maurer",
+      "date_of_birth": "December 4, 1988",
+      "country": "Thailand",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/9_Mario-Maurer.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Zhou Dongyu",
+      "date_of_birth": "January 31, 1992",
+      "country": "China",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/10_Zhou-Dongyu.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Jay Chou",
+      "date_of_birth": "January 18, 1979",
+      "country": "Taiwan",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/11_Jay-Chou.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Kento Yamazaki",
+      "date_of_birth": "September 7, 1994",
+      "country": "Japan",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/12_Kento-Yamazaki.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ruby Rose",
+      "date_of_birth": "March 20, 1986",
+      "country": "Australia",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/13_Ruby-Rose.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Lee Min-ho",
+      "date_of_birth": "June 22, 1987",
+      "country": "Korea",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/14_Lee-Min-ho.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Marian Rivera-Dantes",
+      "date_of_birth": "",
+      "country": "",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/15_Marian-Rivera-Dantes.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Hugh Jackman",
+      "date_of_birth": "October 12, 1968",
+      "country": "Australia",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/16_Hugh-Jackman.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Troye Sivan",
+      "date_of_birth": "June 5, 1995",
+      "country": "Africa",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/17_Troye-Sivan.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Kim So-hyun",
+      "date_of_birth": "June 4, 1999",
+      "country": "Korea",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/18_Kim-So-hyun.jpg"
+    },
+    {
+      "id": 19,
+      "name": "IU",
+      "date_of_birth": "May 16, 1993",
+      "country": "Korea",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/19_IU.jpg"
+    },
+    {
+      "id": 20,
+      "name": "G-Dragon",
+      "date_of_birth": "August 18, 1988",
+      "country": "Korea",
+      "career": "Rapper",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/20_G-Dragon.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Song Hye Kyo",
+      "date_of_birth": "November 22, 1981",
+      "country": "Korea",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/21_Song-Hye-Kyo.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Hyun Bin",
+      "date_of_birth": "September 25, 1982",
+      "country": "Korea",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/22_Hyun-Bin.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Yoo Jae-suk",
+      "date_of_birth": "August 14, 1972",
+      "country": "Korea",
+      "career": "Comedian",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/23_Yoo-Jae-suk.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Yang Mi",
+      "date_of_birth": "September 12, 1986",
+      "country": "China",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/24_Yang-Mi.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Bae Suzy",
+      "date_of_birth": "October 10, 1994",
+      "country": "Korea",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/25_Bae-Suzy.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Margot Robbie",
+      "date_of_birth": "July 2, 1990",
+      "country": "Australia",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/26_Margot-Robbie.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Angelababy",
+      "date_of_birth": "February 28, 1989",
+      "country": "China",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/27_Angelababy.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Kathryn Bernardo",
+      "date_of_birth": "March 26, 1996",
+      "country": "Philippines",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/28_Kathryn-Bernardo.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Anushka Sharma",
+      "date_of_birth": "May 1, 1988",
+      "country": "India",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/29_Anushka-Sharma.jpg"
+    }
   ]
 }
