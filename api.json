@@ -1,1 +1,163 @@
-
+{
+  "celebrities": [
+    {
+      "id": 1,
+      "name": "Selena Gomez",
+      "date_of_birth": "July 22, 1992",
+      "country": "USA",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/1_Selena_Gomez.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Justin Bieber",
+      "date_of_birth": "March 1, 1994",
+      "country": "Canada",
+      "career": "Singer - Song writer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/2_Justin_Bieber.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kim Kardashian",
+      "date_of_birth": "October 21, 1980",
+      "country": "USA",
+      "career": "Media personality",
+     "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/3_Kim_Kardashian.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dwayne Johnson",
+      "date_of_birth": "May 2, 1972",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/4_Dwayne_Johnson.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Taylor Swift",
+      "date_of_birth": "December 13, 1989",
+      "country": "USA",
+      "career": "Singer - Song writer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/5_Taylor_Swift.jpg"
+    {
+      "id": 6,
+      "name": "Katy Perry",
+      "date_of_birth": "October 25, 1984",
+      "country": "USA",
+      "career": "Singer",
+     "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/6_Katy_Perry.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ariana Grande",
+      "date_of_birth": "June 26, 1993",
+      "country": "USA",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/7_Ariana_Grande.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Beyonce",
+      "date_of_birth": "September 4, 1981",
+      "country": "USA",
+      "career": "Singer - Producer",
+     "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/8_Beyonce.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Jennifer Lopez",
+      "date_of_birth": "July 24, 1969",
+      "country": "USA",
+      "career": "Singer",
+     "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/9_Jennifer_Lopez.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Nicki Minaj",
+      "date_of_birth": "December 8, 1982",
+      "country": "Trinidad and Tobago",
+      "career": "Rapper",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/10_Nicki_Minaj.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Miley Cyrus",
+      "date_of_birth": "November 23, 1992",
+      "country": "USA",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/11_Miley_Cyrus.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Cardi B",
+      "date_of_birth": "October 11, 1992",
+      "country": "USA",
+      "career": "Rapper",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/12_Cardi_B.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Rihanna",
+      "date_of_birth": "February 20, 1988",
+      "country": "Barbados",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/13_Rihanna.jpg"
+    },
+    {
+      "id": 14,
+      "name": "David Beckham",
+      "date_of_birth": "May 2, 1975",
+      "country": "England",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/14_David_Beckham.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Kylian Mbappe",
+      "date_of_birth": "December 20, 1998",
+      "country": "France",
+      "career": "Footballer",
+     "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/15_Kylian_Mbappe.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Bretman Rock",
+      "date_of_birth": "July 31, 1998",
+      "country": "Philippines",
+      "career": "YouTuber",
+     "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/16_Bretman_Rock.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Huda Kattan",
+      "date_of_birth": "October 2, 1983",
+      "country": "USA",
+      "career": "Makeup artist",
+     "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/17_Huda_Kattan.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Becky G",
+      "date_of_birth": "March 2, 1997",
+      "country": "USA",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/18_Becky_G.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Cole Sprouse",
+      "date_of_birth": "August 4, 1992",
+      "country": "Italy",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/19_Cole_Sprouse.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Chiara Ferragni",
+      "date_of_birth": "May 7, 1987",
+      "country": "Italy",
+      "career": "Social media personality",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/20_Chiara_Ferragni.jpg"
+    }
+  ]
+}
