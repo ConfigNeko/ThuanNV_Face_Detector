@@ -1,5 +1,5 @@
 {
-  "celebrities": [
+  "best_football": [
     {
       "id": 1,
       "name": "Selena Gomez",
@@ -159,6 +159,330 @@
       "country": "Italy",
       "career": "Social media personality",
       "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Social_media/20_Chiara_Ferragni.jpg"
+    }
+  ],
+   "footballers": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "date_of_birth": "24 June 1987",
+      "country": "Argentina",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/1_Lionel-Messi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pele",
+      "date_of_birth": "23 October 1940",
+      "country": "Brazil",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/2_Pele.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Diego Maradona",
+      "date_of_birth": "30 October 1960",
+      "country": "Argentina",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/3_Diego-Maradona.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cristiano Ronaldo",
+      "date_of_birth": "5 February 1985",
+      "country": "Portugal",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/4_Cristiano-Ronaldo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Johan Cruyff",
+      "date_of_birth": "25 April 1947",
+      "country": "Netherlands",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/5_Johan-Cruyff.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Zinedine Zidane",
+      "date_of_birth": "23 June 1972",
+      "country": "France",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/6_Zinedine-Zidane.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Franz Beckenbauer",
+      "date_of_birth": "11 September 1945",
+      "country": "Germany",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/7_Franz-Beckenbauer.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Alfredo Di Stefano",
+      "date_of_birth": "4 July 1926",
+      "country": "Argentina",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/8_Alfredo-Di-Stefano.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ronaldinho",
+      "date_of_birth": "21 March 1980",
+      "country": "Brazil",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/9_Ronaldinho.jpg"
+    },
+    {
+      "id": 10,
+      "name": "George Best",
+      "date_of_birth": "22 May 1946",
+      "country": "Ireland",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/10_George-Best.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Gerd Muller",
+      "date_of_birth": "3 November 1945",
+      "country": "Germany",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/11_Gerd-Muller.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ferenc Puskas",
+      "date_of_birth": "1 April 1927",
+      "country": "Hungary",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/12_Ferenc-Puskas.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Michel Platini",
+      "date_of_birth": "21 June 1955",
+      "country": "France",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/13_Michel-Platini.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Marco van Basten",
+      "date_of_birth": "31 October 1964",
+      "country": "Netherlands",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/14_Marco-van-Basten.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Zico",
+      "date_of_birth": "3 March 1953",
+      "country": "Brazil",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/15_Zico.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Eusebio",
+      "date_of_birth": "25 January 1942",
+      "country": "Portugal",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/16_Eusebio.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Garrincha",
+      "date_of_birth": "28 October 1933",
+      "country": "Brazil",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/17_Garrincha.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Bobby Charlton",
+      "date_of_birth": "11 October 1937",
+      "country": "England",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/18_Bobby-Charlton.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Paolo Maldini",
+      "date_of_birth": "26 June 1968",
+      "country": "Italy",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/19_Paolo-Maldini.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Giuseppe Meazza",
+      "date_of_birth": "23 August 1910",
+      "country": "Italy",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Best_football_players/20_Giuseppe-Meazza.jpg"
+    }
+  ],
+  "most_beautyful": [
+    {
+      "id": 1,
+      "name": "Phoebe Tonkin",
+      "date_of_birth": "12 July 1989",
+      "country": "Australia",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/1_Phoebe-Tonkin.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kate Winslet",
+      "date_of_birth": "5 October 1975",
+      "country": "England",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/2_Kate-Winslet.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Taylor Swift",
+      "date_of_birth": "December 13, 1989",
+      "country": "USA",
+      "career": "Singer - Song writer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/3_Taylor-Swift.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nina Dobrev",
+      "date_of_birth": "January 9, 1989",
+      "country": "Bulgaria",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/4_Nina-Dobrev.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Megan Fox",
+      "date_of_birth": "May 16, 1986",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/5_Megan-Fox.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gal Gadot",
+      "date_of_birth": "30 April 1985",
+      "country": "Israel",
+      "career": "Actor - Model",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/6_Gal-Gadot.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Elizabeth Lail",
+      "date_of_birth": "1991",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/7_Elizabeth-Lail.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Stefanie Giesinger",
+      "date_of_birth": "27 August 1996",
+      "country": "Germany",
+      "career": "Model",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/8_Stefanie-Giesinger.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lupita Nyong'o",
+      "date_of_birth": "1 March 1983",
+      "country": "Mexico",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/9_Lupita-Nyong'o.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Simone Ashley",
+      "date_of_birth": "30 March 1995",
+      "country": "England",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/10_Simone-Ashley.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Lucy Hale",
+      "date_of_birth": "June 14, 1989",
+      "country": "USA",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/11_Lucy-Hale.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Harriet Herbig-Matten",
+      "date_of_birth": "August 21, 2003",
+      "country": "Germany",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/12_Harriet-Herbig-Matten.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Luna Wedler",
+      "date_of_birth": "26 October 1999",
+      "country": "Switzerland",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/13_Luna-Wedler.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Tiera Skovbye",
+      "date_of_birth": "May 6, 1995",
+      "country": "Canada",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/14_Tiera-Skovbye.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Liana Liberato",
+      "date_of_birth": "August 20, 1995",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/15_Liana-Liberato.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Anne Hathaway",
+      "date_of_birth": "November 12, 1982",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/16_Anne-Hathaway.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Julia Roberts",
+      "date_of_birth": "October 28, 1967",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/17_Julia-Roberts.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Adelaide Kane",
+      "date_of_birth": "9 August 1990",
+      "country": "Australia",
+      "career": "Actor - Model",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/18_Adelaide-Kane.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Kennedy McMann",
+      "date_of_birth": "October 30, 1996",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/19_Kennedy-McMann.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Jennifer Morrison",
+      "date_of_birth": "April 12, 1979",
+      "country": "USA",
+      "career": "Actor - Producer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Most_Beautyful_Women/20_Jennifer-Morrison.jpg"
     }
   ]
 }
