@@ -1180,5 +1180,168 @@
       "career": "Actor",
       "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Asia_100_digital_stars/29_Anushka-Sharma.jpg"
     }
+  ],
+  "handsome_men": [
+    {
+      "id": 1,
+      "name": "James Dean",
+      "date_of_birth": "February 8, 1931",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/1_Henry-Golding.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Paul Newman",
+      "date_of_birth": "January 26, 1925",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/2_Dylan-O-Brien.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Robert Redford",
+      "date_of_birth": "August 18, 1936",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/3_Leo-Woodall.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Richard Gere",
+      "date_of_birth": "August 31, 1949",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/4_Rege-Jean-Page.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kurt Cobain",
+      "date_of_birth": "February 20, 1967",
+      "country": "USA",
+      "career": "Singer - Songwriter",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/5_Ian-Somerhalder.jpg"
+    },
+    {
+      "id": 6,
+      "name": "George Clooney",
+      "date_of_birth": "May 5, 1961",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/6_Colin-O-Donoghue.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Heath Ledger",
+      "date_of_birth": "April 4, 1979",
+      "country": "Australia",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/7_Eddie-Redmayne.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ricky Martin",
+      "date_of_birth": "December 24, 1971",
+      "country": "USA",
+      "career": "Musician - Producer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/8_Harry-Styles.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Justin Timberlake",
+      "date_of_birth": "January 31, 1981",
+      "country": "USA",
+      "career": "Musician - Producer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/9_Austin-Butler.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ryan Phillippe",
+      "date_of_birth": "September 10, 1974",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/10_Idris-Elba.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Prince Harry",
+      "date_of_birth": "September 15, 1984",
+      "country": "England",
+      "career": "Soldier",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/11_Richard-Gere.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Orlando Bloom",
+      "date_of_birth": "January 13, 1977",
+      "country": "England",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/12_Hugh-Grant.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ryan Reynolds",
+      "date_of_birth": "October 23, 1976",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/13_Joe-Alwyn.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Bradley Cooper",
+      "date_of_birth": "January 5, 1975",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/14_Scott-Eastwood.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Jon Hamm",
+      "date_of_birth": "March 10, 1971",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/15_Toby-Regbo.jpg"
+    },
+    {
+      "id": 16,
+      "name": "David Beckham",
+      "date_of_birth": "May 2, 1975",
+      "country": "England",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/16_Theo-James.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Henry Cavill",
+      "date_of_birth": "May 5, 1983",
+      "country": "England",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/17_Darren-Criss.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Chris Hemsworth",
+      "date_of_birth": "August 11, 1983",
+      "country": "Australia",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/18_Elyas-M-Barek.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Zayn Malik",
+      "date_of_birth": "January 12, 1993",
+      "country": "England",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/19_Swann-Arlaud.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Cary Fukunaga",
+      "date_of_birth": "July 10, 1977",
+      "country": "USA",
+      "career": "Director",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/20_Matthias-Schweighöfer.jpg"
+    }
   ]
+
 }
