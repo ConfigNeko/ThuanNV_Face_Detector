@@ -1342,6 +1342,161 @@
       "career": "Director",
       "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Handsome_Men/20_Matthias-Schweighöfer.jpg"
     }
+  ],
+   "top_most_face": [
+    {
+      "id": 1,
+      "name": "Mahlagha Jaberi",
+      "date_of_birth": "June 17, 1989",
+      "country": "Iran",
+      "career": "Model",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/1_Mahlagha_Jaberi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "IU",
+      "date_of_birth": "May 16, 1993",
+      "country": "Korean",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/2_IU.jpg"
+    },
+  
+    {
+      "id": 4,
+      "name": "Ayu Ting Ting",
+      "date_of_birth": "June 20, 1992",
+      "country": "Indonesia",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/4_Ayu_Ting_Ting.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Minnie (GIDLE)",
+      "date_of_birth": "October 23, 1997",
+      "country": "Thailand",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/5_Minnie_(GIDLE).jpg"
+    },
+   
+    {
+      "id": 7,
+      "name": "Harnaaz Kaur Sandhu",
+      "date_of_birth": "March 3, 2000",
+      "country": "India",
+      "career": "Beauty queen",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/6_Harnaaz_Kaur_Sandhu.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lily Rose Depp",
+      "date_of_birth": "May 27, 1999",
+      "country": "France",
+      "career": "Model",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/7_Lily_Rose_Depp.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kate Beckinsale",
+      "date_of_birth": "July 26, 1973",
+      "country": "England",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/8_Kate_Beckinsale.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Boun Noppanut Guntachai",
+      "date_of_birth": "July 10, 1995",
+      "country": "Thailand",
+      "career": "Model",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/9_Boun_Noppanut_Guntachai.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Dylan Sprayberry",
+      "date_of_birth": "July 7, 1998",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/10_Dylan_Sprayberry.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Gyuvin (ZB1)",
+      "date_of_birth": "August 30, 2004",
+      "country": "Korean",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/11_Gyuvin_(ZB1).jpg"
+    },
+    {
+      "id": 13,
+      "name": "Leonardo DiCaprio",
+      "date_of_birth": "November 11, 1974",
+      "country": "USA",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/12_Leonardo_DiCaprio.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Iqbaal Ramadhan",
+      "date_of_birth": "December 28, 1999",
+      "country": "Indonesia",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/13_Iqbaal_Ramadhan.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Manny Jacinto",
+      "date_of_birth": "August 19, 1987",
+      "country": "Philippines",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/14_Manny_Jacinto.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Guo Dianjia (Boyhood)",
+      "date_of_birth": "August 9, 2004",
+      "country": "China",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/15_Guo_Dianjia_(Boyhood).jpg"
+    },
+    {
+      "id": 17,
+      "name": "Jongup (B.A.P)",
+      "date_of_birth": "February 6, 1995",
+      "country": "Korean",
+      "career": "Singer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/16_Jongup_(B.A.P).jpg"
+    },
+    {
+      "id": 18,
+      "name": "Jordan Love",
+      "date_of_birth": "November 2, 1998",
+      "country": "USA",
+      "career": "Footballer",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/17_Jordan_Love.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Prilly Latuconsina",
+      "date_of_birth": "October 15, 1996",
+      "country": "Indonesia",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/18_Prilly_Latuconsina.jpg"
+    },
+     {
+      "id": 20,
+      "name": "Nisha Guragain",
+      "date_of_birth": "October 2, 1997",
+      "country": "India",
+      "career": "Model",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/19_Nisha_Guragain.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Cemre Baysel",
+      "date_of_birth": "February 5, 1999",
+      "country": "Turkiye",
+      "career": "Actor",
+      "url": "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/Top_most_beautyful_face_2024/20_Cemre_Baysel.jpg"
+    }
   ]
-
 }
